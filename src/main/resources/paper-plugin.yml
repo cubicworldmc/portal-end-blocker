@@ -1,0 +1,5 @@
+name: portal-end-blocker
+version: '0.0-SNAPSHOT'
+main: net.cubicworld.portalEndBlocker.PortalEndBlocker
+api-version: '1.21'
+authors: [ Jenya705 ]
